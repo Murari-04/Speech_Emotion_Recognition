@@ -20,4 +20,7 @@ __pycache__/
 *.csv
 *.h5
 *.pkl
+!naive_bayes.pkl
+!random_forest.pkl
+!svm.pkl
 models/
