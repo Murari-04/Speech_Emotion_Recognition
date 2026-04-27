@@ -1,0 +1,23 @@
+# Virtual environments
+myenv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+# Data science / ML files (optional but recommended)
+*.csv
+*.h5
+*.pkl
+models/
